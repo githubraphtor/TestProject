@@ -14,8 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         // Меняем фон на жёлтый
-        self.view.backgroundColor = UIColor.green // опа
+        self.view.backgroundColor = UIColor.yellow // опа
+        
     _ = "йцуйцуйцуйцуйц \r аауцпукп"
+    _ = "йцуйцуйцуйцуйц \r аауцпукqqqq"
     
     }
 
